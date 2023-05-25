@@ -2,8 +2,8 @@ import json, time                 # importing libraries
 from boltiot import Bolt
 
 # api_key and device_id of the Bolt Wi-Fi module
-bolt_api_key = '6d84b61e-c5ae-4e6b-aaa7-4201162d906c'   
-device_id = 'BOLT5436703'                 
+bolt_api_key = 'XXXXXXXXXXX-4e6b-aaa7-4201162d906c'   
+device_id = 'BOLTXXXX703'                 
 
 nbolt = Bolt(bolt_api_key, device_id)
 
